@@ -1,6 +1,6 @@
 # Hello, folks 👋
 
-I'm Adri, a Software Engineer working at ![IDEMIA](https://www.idemia.com/). 
+I'm Adri, a Software Engineer working at [IDEMIA](https://www.idemia.com/). 
 
 My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have barely no time to push any meaninful commit, I will I promise)~~_
 
