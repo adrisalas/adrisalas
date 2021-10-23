@@ -7,9 +7,9 @@ My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have bare
 ## Cool projects:
 > 404... I need to update this
 
-<details open>
-  <summary>My skills <i>(or at least what I think I know):</i></summary>
-  <h3> Backend </h3>
+## My skills _(or at least what I think I know):_
+
+### Backend
 <a href="https://openjdk.java.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
 <a href="https://gcc.gnu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -43,13 +43,11 @@ My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have bare
 ### IDEs
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" width="40" height="40"/></a>
-</details>
 
-
-</details>
-<!-- 
-<details open>
-  <summary>FAQ <i>(well, no one asked but yeah, "frequently asked" questions)</i></summary>
+<hr>
+<details>
+  <summary><b>FAQ</b> <i>(Click to open!)</i></summary>
+<!-- Some questions of this FAQ are taken from from: https://github.com/cassidoo/ama -->
 
 ### Do you have a CS degree? Do you regret it?
 
@@ -62,6 +60,4 @@ My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have bare
 ### Do you have any thoughts on work/life balance?
 
 ### Aside from technical skills, what personality traits/characteristics make for an ideal candidate in your role?
-
-Some questions of this FAQ are taken from from: https://github.com/cassidoo/ama
--->
+</details>
