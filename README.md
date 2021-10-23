@@ -1,6 +1,8 @@
 # Hello, folks 👋
 
-I'm Adri, a Software Engineer working at ![IDEMIA](https://www.idemia.com/). My github profile is **DEAD** _(aka I'm finishing my CS degree and I have barely no time to push any meaninful commit, I will I promise)_
+I'm Adri, a Software Engineer working at ![IDEMIA](https://www.idemia.com/). 
+
+My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have barely no time to push any meaninful commit, I will I promise)~~_
 
 ## Cool projects:
 > 404... I need to update this
