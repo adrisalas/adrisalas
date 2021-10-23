@@ -8,7 +8,7 @@ My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have bare
 > 404... I need to update this
 
 <details open>
-  <summary style="font-size: 2em;padding-bottom: .3em;border-bottom: 1px solid var(--color-border-muted);">My skills <i>(or at least what I think I know):</i></summary>
+  <summary>My skills <i>(or at least what I think I know):</i></summary>
   <h3> Backend </h3>
 <a href="https://openjdk.java.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
@@ -45,11 +45,13 @@ My github profile is **DEAD** _~~(aka I'm finishing my CS degree and I have bare
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="" width="40" height="40"/></a>
 </details>
 
-<!-- ## FAQ _(well, no one asked but yeah, "frequently asked" questions)
+
+</details>
+<!-- 
+<details open>
+  <summary>FAQ <i>(well, no one asked but yeah, "frequently asked" questions)</i></summary>
 
 ### Do you have a CS degree? Do you regret it?
-
-### What editor do you use?
 
 ### What OS do you use?
 
