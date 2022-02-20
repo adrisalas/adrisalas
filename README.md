@@ -2,8 +2,6 @@
 
 I am Adri _~~Threepwood~~_ Salas, mighty Software Engineer working at [IDEMIA](https://www.idemia.com/). 
 
-My github profile is DEAD
-
 ## Cool projects:
 > 404... I need to update this
 
