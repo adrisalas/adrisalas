@@ -1,6 +1,6 @@
 # Hello, folks 👋
 
-I am Adri _~~Threepwood~~_ Salas, mighty Software Engineer working at [IDEMIA](https://www.idemia.com/). 
+I am Adri _~~Threepwood~~_ Salas, mighty Software Engineer. 
 
 ## Cool projects:
 > 404... I need to update this
