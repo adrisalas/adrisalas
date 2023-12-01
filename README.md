@@ -6,7 +6,7 @@ I am Adri _~~Threepwood~~_ Salas, mighty Software Engineer.
 > 404... I need to update this
 
 <a href="https://github.com/adrisalas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrisalas&&hide=html,css,tsql,jupyter%20notebook&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrisalas&&hide=html,css,tsql,jupyter%20notebook&theme=transparent" />
 </a>
 
 <hr/>
