@@ -1,21 +1,13 @@
-# Hello, folks 👋
+# Ahoy! 👋
 
-I am Adri _~~Threepwood~~_ Salas, mighty Software Engineer. 
+### A bit about me
 
-<a href="https://github.com/adrisalas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrisalas&&hide=html,css,tsql,jupyter%20notebook&theme=transparent" />
-</a>
+I'm Adri, a tea-loving nerd from Spain. I enjoy hiking, fantasy books, animals, Linux, and coding. 🖥️
 
-<hr/>
+![gopher dancing](./dancing-gopher.gif)
 
-### Guybrush Threepwood's Tip
+### Current adventures
 
-<a href="https://youtu.be/i3dB0qEcG20?t=22">
-  <img src="https://github.com/adrisalas/adrisalas/blob/main/MonkeyIsland.gif?raw=true" width="450px"/>
-</a>
-
-- **Guybrush:** At least I’ve learnt something from all of this.
-- **Elaine:** What’s that?
-- **Guybrush:** Never pay more than 20 bucks for a computer game.
-- **Elaine:** A what?
-- **Guybrush:** I don't know. I have no idea why I said that.
+- Learning Go
+- Studying English
+- Reading Robin Hobb
