@@ -9,5 +9,5 @@ I'm Adri, a tea-loving nerd from Spain. I enjoy hiking, fantasy books, animals, 
 ### Current adventures
 
 - Learning Go
-- Studying English
-- Reading Robin Hobb
+- Studying Chinese
+- Going to Mountains
